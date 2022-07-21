@@ -1,0 +1,35 @@
+html {
+  font-size: 20px;
+  font-family: 'Edu TAS Beginner', cursive;
+  margin: 0 auto;
+  background-color: bisque;
+}
+p { line-height: 5; letter-spacing: 2px;
+    color: rgb(128, 63, 63);
+    width: fit-content;
+    border: 1px solid black;
+  }
+a {width: 200px; border: 1px solid red;}
+a:hover {color: rgb(102, 0, 0);}
+.KELBASA {color: rgb(255, 255, 255);
+padding: 40px;
+border: 3px solid rgb(43, 14, 14);
+background-color: rgb(158, 68, 124);
+margin: 0 auto;}
+img[alt] {color: blueviolet;}
+strong {color: rgb(248, 195, 239);}
+h1 {font-size: 25px; text-align: center; color: aliceblue;
+  text-shadow: 0px 3px 40px black; margin: 0 auto; width: fit-content;}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #241f22;
+  padding: 50px 50px 100px;
+  border: 10px solid black;
+}
+img {display: block; width: 50%; margin-left: 50%;}
+button {color: aliceblue;
+  background-color: #080808;
+  padding: 20px 40px 20px;
+  border: 1px solid rgb(156, 156, 124);
+  margin: 0 auto;}
